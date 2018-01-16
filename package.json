@@ -1,5 +1,5 @@
 {
-  "name": "ng2-cache",
+  "name": "@pug/ng2-cache",
   "version": "0.1.11",
   "description": "Client side caching service for Angular2",
   "main": "ng2-cache.js",
