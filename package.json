@@ -8,8 +8,7 @@
     "url": "git+ssh://git@github.com:Jackson88/ng2-cache.git"
   },
   "scripts": {
-    "prepublish": "tsc && npm run build",
-    "build": "ng-packagr -p ng-package.json"
+    "build": "tsc && ng-packagr -p ng-package.json"
   },
   "typings": "ng2-cache.d.ts",
   "keywords": [
